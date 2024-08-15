@@ -12,7 +12,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=500&color=F7F7F7&background=FF000000&center=true&vCenter=true&width=435&lines=127.0.0.1;+Eat+,+Sleep+,+Code+,+Repeat!" alt="Typing SVG" />
 </p>
 
- ##🚀 About Me
+## 🚀 About Me
 <!--horizontal divider(gradiant)-->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
