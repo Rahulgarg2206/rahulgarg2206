@@ -51,8 +51,9 @@
   <a href="https://instagram.com/rahul_garg.pvt" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-FFA116?style=for-the-badge&logo=instagram&logoColor=White" alt="Instagram" />
   </a>
-</p>
+ </p>
+<p align="center">
+  <img src="https://profile-counter.glitch.me/rahulgarg2206/count.svg" alt="Visitors">
+ </p>
 
 
-<!--horizontal divider(gradiant)-->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
