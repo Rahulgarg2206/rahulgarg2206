@@ -35,6 +35,12 @@
 <!--horizontal divider(gradiant)-->
 <img src="https://user-images.Omansh-Sharma1.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
+## 🎯 GitHub Achievements
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=rahulgarg2206&theme=gruvbox&no-frame=true&margin-w=15" alt="GitHub Achievements" />
+</p>
+
 ## 🛠️ Technologies & Tools
 <!--horizontal divider(gradiant)-->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
