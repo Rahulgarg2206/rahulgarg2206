@@ -62,22 +62,13 @@
 
 ## 🎯 GitHub Achievements
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=rahulgarg2206&theme=gruvbox&no-frame=true&margin-w=15" alt="GitHub Achievements" />
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/rahulgargji/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/rahulgargji/" height="30" width="40" /></a>
+<a href="https://instagram.com/www.instagram.com/rahul_garg.pvt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="www.instagram.com/rahul_garg.pvt" height="30" width="40" /></a>
 </p>
-
-## 🤝 Connect with Me
-
 <p align="center">
-  <a href="https://www.linkedin.com/in/rahulgargji" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-
-  </a>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Omansh-Sharma1&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=rahulgarg2206&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile Views" />
 </p>
 
 <!--horizontal divider(gradiant)-->
