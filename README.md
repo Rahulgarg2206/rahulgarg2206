@@ -15,7 +15,7 @@
 
 
 - 👨‍💻 Creating scalable web applications and exploring cutting-edge technologies
-- 💬 Let's discuss **Python, React, Node.js, MongoDB**, and other web technologies
+- 💬 Let's discuss **Python, Cybersecurity, Ethical Hacking, Penetration Testing**, and other web technologies
 - 📫 Reach me at: [Rahulgarg5544094@gmail.com](mailto:rahulgarg5544094@gmail.com)
 - ⚡ Fun Fact: **Computers are the only things where too much heat causes freezing!** 🕵️‍♂️
 
