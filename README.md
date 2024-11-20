@@ -1,7 +1,6 @@
-<div align="center" style="background: linear-gradient(90deg, #FF6F61, #6B5B95); color: white; padding: 20px; border-radius: 10px;">
-  <h1>👋 Hello, I'm Rahul Garg</h1>
+<div align="center">
+    <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=350&size=28&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&random=false&width=750&lines=System+Breach+Initiated...;Welcome+to+Rahul+Garg's+Cyber+Arsenal;Team+Illusion+%7C+Digital+Warfare+Specialist" alt="Typing SVG" />
 </div>
-
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-Explorer-blue" alt="Python Explorer" />
