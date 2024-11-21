@@ -34,6 +34,10 @@
   <img src="https://github-profile-trophy.vercel.app/?username=rahulgarg2206&theme=gruvbox&no-frame=true&margin-w=15" alt="GitHub Achievements" />
 </p>
 
+<div align="center">
+    <img src="https://github-profile-trophy.vercel.app/?username=rahulgarg2206&theme=matrix&no-frame=true&row=1&column=7" alt="War Trophies"/>
+</div>
+
 ## 🛠️ Technologies & Tools
 
 
