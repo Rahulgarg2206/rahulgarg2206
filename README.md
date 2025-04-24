@@ -28,7 +28,7 @@
 
 ## 📊 TryHackMe Stats
 
-![TryHackMe](https://tryhackme.com/api/v2/badges/public-profile?userPublicId=3019282)
+<img src="https://tryhackme-badges.s3.amazonaws.com/CyberRJ.png" alt="Your Image Badge" />
 
 
 ## 🎯 GitHub Achievements
