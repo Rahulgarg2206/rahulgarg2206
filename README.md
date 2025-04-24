@@ -28,7 +28,7 @@
 
 ## 📊 TryHackMe Stats
 
-<img src="https://tryhackme-badges.s3.amazonaws.com/CyberRJ.png" alt="Your Image Badge" />
+
 
 
 
