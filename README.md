@@ -29,8 +29,7 @@
 ## 📊 TryHackMe Stats
 
 
-
-<img src="https://tryhackme-badges.s3.amazonaws.com/CyberRJ.png" alt="Your Image Badge" />
+<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=3019282" style='border:none;'></iframe>
 
 
 
