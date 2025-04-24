@@ -28,8 +28,8 @@
 
 ## 📊 TryHackMe Stats
 
+![TryHackMe](https://tryhackme-badges.s3.amazonaws.com/3019282.png)
 
-[![TryHackMe](https://tryhackme-badges.s3.amazonaws.com/3019282.png)](https://tryhackme.com/p/3019282)
 
 ## 🎯 GitHub Achievements
 
