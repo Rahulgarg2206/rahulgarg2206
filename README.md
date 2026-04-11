@@ -1,11 +1,9 @@
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:20232a&height=200&section=header&text=Rahul%20Garg&fontSize=60&fontColor=00FF96&animation=fadeIn&fontAlignY=35&desc=OSINT%20Expert%20|%20Founder%20And%20CEO&descAlignY=52&descSize=16" width="100%">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:20232a&height=200&section=header&text=Rahul%20Garg&fontSize=60&fontColor=00FF96&animation=fadeIn&fontAlignY=35&desc=OSINT%20Expert%2" width="100%">
 
   <div align="center">
     <img src="https://img.shields.io/badge/Secure%20Society-Co--Founder_And_CEO-00FF96?style=for-the-badge&logo=shield&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Secure%20With%20Techies-Co--Founder_And_CISO-00B3FF?style=for-the-badge&logo=target&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Zero%20Day%20Arena-Co--Founder_And_CTO-0088FF?style=for-the-badge&logo=code&logoColor=white"/>
     <img src="https://komarev.com/ghpvc/?username=rahulgarg2206&style=for-the-badge&color=00FF96&label=PROFILE+VIEWS"/>
   </div>
 
@@ -22,10 +20,8 @@
 
 > Rahul Garg
 > Co-Founder & CEO – Secure Society 
-> Co-Founder & CISO – Secure With Techies
-> Co-Founder & CTO – Zero Day Arena
 > Cybersecurity Analyst | OSINT & Social Engineering Expert
-> CEH | THM Global Rank: #13020
+> CEH | THM Global Rank: #20989
 ```
 
 <h2>MY MISSION</h2>
@@ -35,7 +31,7 @@ I aim to democratize cybersecurity knowledge and ensure digital protection is ac
 <h2>ACHIEVEMENTS</h2>
 
 - Founder of a national-level cyber awareness NGO  
-- TryHackMe Global Ranking: #13020  
+- TryHackMe Global Ranking: #20989
 - Co-Founder of Zero Day Arena (CTF Platform Service Provider)  
 - OSINT, Social Engineering & Cybercrime Case Handling Expert  
 - Speaker at multiple cyber events & hackathons  
