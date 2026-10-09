@@ -40,13 +40,13 @@ I aim to democratize cybersecurity knowledge and ensure digital protection is ac
 <h2><img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGMyNzA2ZmpzaDY5aDJkeGxwZmwzbnRxbmF1aGQ1b2oxcHQ3MnRyciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/gRYfMsXRndYb9T40CZ/giphy.gif" width="30px"> GITHUB STATS </h2>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rahulgarg2206&custom_title=Contribution%20Graph&theme=github-dark&bg_color=0d1117&line=00FF96&point=00B3FF&color=c9d1d9&area=true&area_color=00FF96&hide_border=true" width="100%">
+  <img src="https://github-readme-stats.shion.dev/api?username=Rahulgarg2206&theme=dark&hide_border=false&include_all_commits=true&count_private=true" width="100%">
 </div>
-  <img height="170em" src="https://github-readme-streak-stats.herokuapp.com/?user=Rahulgarg2206&theme=github-dark&background=0d1117&border=30363d&ring=00FF96&fire=00B3FF&currStreakNum=00FF96&sideNums=00FF96&currStreakLabel=00B3FF&sideLabels=00B3FF&dates=c9d1d9" />
+  <img height="170em" src="https://streak-stats.demolab.com/?user=Rahulgarg2206&theme=dark&hide_border=false" />
 </div>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Rahulgarg2206&theme=darkhub&column=7&margin-w=15&margin-h=15&no-frame=true" />
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Rahulgarg2206&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
 </div>
 
 
